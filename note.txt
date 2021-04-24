@@ -7,4 +7,5 @@ few thing happend
 do more change
 how to save afrer adding some text?
 on windows control + s
-or click on file and save
+or click on file and 
+we do not have to push one commit at the time
