@@ -5,3 +5,6 @@ few thing happend
 
 
 do more change
+how to save afrer adding some text?
+on windows control + s
+or click on file and save
