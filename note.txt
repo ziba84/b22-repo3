@@ -1,5 +1,7 @@
 we just puplished our local git repo
 to remote gitHub.com repositry
 few thing happend
-1) it automatically creat new remot repo
-under your github.comaccount
+1) it automatically creat new r
+
+
+do more change
